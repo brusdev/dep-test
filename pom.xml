@@ -30,6 +30,13 @@
 
   <dependencies>
     <dependency>
+      <groupId>io.hawt</groupId>
+      <artifactId>hawtio-war</artifactId>
+      <version>2.0.0.fuse-7_13_0-00012-redhat-00001</version>
+      <type>war</type>
+    </dependency>
+
+    <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
       <scope>test</scope>
